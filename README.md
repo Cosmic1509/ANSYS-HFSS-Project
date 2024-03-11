@@ -50,4 +50,88 @@ The materials that have been assigned are :
 	After looking at the outputs we can observe the dual-band for all the antennas which have wave-ports, this indicates that our dual-band 8-antenna MIMO system has not only good isolation but also good antenna total efficiency which is excellent for mobile device transmission.
 
 
+ALL ANTENNA TRANSMISSION GRAPHICAL REPRESENTATION
+
+ 
+
+Figure 1) Antenna Design in HFSS
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/52038ae2-f3e5-4e7b-a576-eda0f6b8994f)
+
+ 
+
+Figure 2) Antenna model with radiation box
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/ffe3f397-8160-4c92-be44-1f59a2b7c62e)
+
+ 
+
+Figure 3) Antenna system, feedlines and coax cables
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/3df80db6-3d9d-49dd-a8b5-8e1bbc84c04f)
+
+
+ 
+
+Figure 4) Inner view of antenna 1
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/cad76769-3772-4aa2-890c-456f1e026b23)
+
+
+
+ 
+
+Figure 5) Outer view of antenna 1
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/890d8e6b-9c3a-4941-8ee7-1c2244d53e8d)
+
+
+ 
+
+Figure 6) Coax Cables of the antenna 
+
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/0ebf9886-d530-4be5-adcc-bc89eca25408)
+
+
+
+ 
+
+Figure 7) Antenna Wave-port 1 output wave, we get a dual-band
+
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/d2e7eb84-b5d2-42de-a445-34ad1e71f267)
+
+
+ 
+
+
+Figure 8) Outputs of Antennas 1 to 8; where all are dual-bands
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/ff83d337-5cca-46ee-8290-2db931e70d6b)
+
+ 
+
+Figure 9) SWR of antennas and antenna waveport outputs combined 
+
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/f1a3cc66-241f-48a8-945e-52be3913a497)
+
+
+ 
+
+Figure 10) SWR of antennas and antenna waveport outputs combined with curve info 
+
+![image](https://github.com/Cosmic1509/ANSYS-HFSS-Project/assets/82835887/9c39e77e-2ca7-4114-aa9d-239775ad80c6)
+
+
+<h3>CONCLUSION:</h3>
+A dual-band 8-antenna MIMO system that can cover the 3.3-5.0GHz band is proposed for the 5G application in mobile terminals. Particularly, the MIMO antenna system is based on a coupled-loop antenna element with three coupling sections in its radiating branches: one on the top centre and two on the left and right sides. The frequencies obtained are 3.50Hz and 4.50Hz, most importantly, due to the above special arrangement, a new resonance mode the first resonance (0.75λ) mode of the loop antenna is generated for the first time. As a consequence, the combination of this new mode of the loop antenna makes the bandwidth of the proposed coupled-loop antenna a dual-band, which can cover all the 5G N77, N78 and N79 bands.
+The performance of the 8-antenna MIMO system is confirmed by both simulation and measurement, and good MIMO antenna performance is obtained. In particular, the proposed dual-band 8-antenna MIMO system shows good isolation due to the feeding mechanism used and, the envelope correlation coefficient is quite accurate with its counter antennas, and good channel capacity, which is all good enough for practical 5G MIMO antenna application in mobile terminals.
 
